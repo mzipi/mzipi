@@ -1,4 +1,4 @@
-### Aquí tengo algunos repositorios donde hago pruebas
+### Aquí tengo algunos repositorios sencillos donde hago pruebas
 
 <!--
 **mzipi/mzipi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
