@@ -1,4 +1,6 @@
-### Aquí tengo algunos repositorios simples donde hago pruebas
+### Hola! soy Michell Zipitría
+
+Estoy iniciando en el desarrollo backend con Node.js
 
 <!--
 **mzipi/mzipi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
