@@ -17,10 +17,7 @@ Apasionado por la informática y la tecnología, siempre en constante aprendizaj
   
 ### 🔹 Frontend
 - [React Store](https://github.com/mzipi/react-store) - Tienda en línea con React.js.
-- [JS Project](https://github.com/mzipi/js-project) - Calculadora de calorías en JavaScript.
-
-### 🔹 Full-Stack
-- [SIBA](https://github.com/mzipi/SIBA) - Proyecto de gestión de materias en Visual Basic .NET.
+- [Destiny lore esp](https://github.com/mzipi/destiny-lore-esp) - App para leer lore de Destiny en español.
 
 ## 📫 Conéctate conmigo
 
