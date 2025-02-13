@@ -2,7 +2,7 @@
 
 Apasionado por la informática y la tecnología, siempre en constante aprendizaje. Actualmente, me dedico al desarrollo backend y full-stack, enfocándome en Node.js y React.
 
-## 🚀 Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 - **Backend:** Node.js, Express.js
 - **Frontend:** React.js, HTML, CSS
@@ -10,7 +10,7 @@ Apasionado por la informática y la tecnología, siempre en constante aprendizaj
 - **Control de Versiones:** Git, GitHub
 - **Otros:** Docker, APIs REST
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 ### 🔹 Backend
 - [Store API](https://github.com/mzipi/store-api) - API REST con Node.js y Express.js.
@@ -19,7 +19,7 @@ Apasionado por la informática y la tecnología, siempre en constante aprendizaj
 - [React Store](https://github.com/mzipi/react-store) - Tienda en línea con React.js.
 - [Destiny lore esp](https://github.com/mzipi/destiny-lore-esp) - App para leer lore de Destiny en español.
 
-## 📫 Conéctate conmigo
+## Conéctate conmigo
 
 - [LinkedIn](https://www.linkedin.com/in/michellz)
 - [About.me](https://about.me/mzipi)
