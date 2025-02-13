@@ -10,10 +10,17 @@ Apasionado por la informática y la tecnología, siempre en constante aprendizaj
 - **Control de Versiones:** Git, GitHub
 - **Otros:** Docker, APIs REST
 
-## 🌟 Proyectos Destacados
+## 🚀 Proyectos Destacados
 
-- [**store-api**](https://github.com/mzipi/store-api): Proyecto final del curso de backend en Coderhouse, donde desarrollé una API RESTful utilizando Node.js y Express.js.
-- [**react-store**](https://github.com/mzipi/react-store): Aplicación frontend de una tienda en línea construida con React.js.
+### 🔹 Backend
+- [Store API](https://github.com/mzipi/store-api) - API REST con Node.js y Express.js.
+  
+### 🔹 Frontend
+- [React Store](https://github.com/mzipi/react-store) - Tienda en línea con React.js.
+- [JS Project](https://github.com/mzipi/js-project) - Calculadora de calorías en JavaScript.
+
+### 🔹 Full-Stack
+- [SIBA](https://github.com/mzipi/SIBA) - Proyecto de gestión de materias en Visual Basic .NET.
 
 ## 📫 Conéctate conmigo
 
