@@ -12,12 +12,16 @@ Apasionado por la informática y la tecnología, siempre en constante aprendizaj
 
 ## Proyectos Destacados
 
-### 🔹 Backend
+### 🔹 Back-end
 - [Store API](https://github.com/mzipi/store-api) - API REST con Node.js y Express.js.
   
-### 🔹 Frontend
+### 🔹 Front-end
 - [React Store](https://github.com/mzipi/react-store) - Tienda en línea con React.js.
 - [Destiny lore esp](https://github.com/mzipi/destiny-lore-esp) - App para leer lore de Destiny en español.
+- [tasks](https://github.com/mzipi/tasks) - App de tareas con javascript.
+
+### 🔹 Full-stack
+- [My blog](https://github.com/mzipi/my-blog) - Proyecto de blog con Next js.
 
 ## Conéctate conmigo
 
